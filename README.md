@@ -73,16 +73,16 @@ This is the hard coded data we'll use. (you can copy paste it from here. It's a 
 
 ## Goals
 ### Make a page for "Job Titles"
-- When an unauthorized user lands on this page, page makes a GET call to fetch all the job titles and return just the titles (we don't want to expose any employee information of the job to the end user on this page) from your WebAPI endpoint.
+- When an unauthorized user lands on this page, page makes a GET call to fetch all the job titles and returns just the titles (The fetch call should return only job titles not anything else) from your WebAPI endpoint.
 - When the data is returned it gets saved into redux store and react component(s) gets rendered.
 - This page URL should be localhost:[PORT]/titles
 
-### Make a page for fetching the employees.
+### Make a page display the employees' names.
 
-- When an unauthorized user lands on this page, page makes a GET call to fetch all the name of the employees from your WebAPI endpoint.
+- When an unauthorized user lands on this page, page makes a GET call to fetch all the name of the employees from your WebAPI endpoint (The fetch call should return only employee names not anything else).
 - When the data is returned it gets saved into redux store and react component(s) gets rendered.
 - This page URL should be localhost:[PORT]/employees/:jobId 
-- JobId is a parameter. so if the job id is 2, it should return the directors' name if 1 it should return actresses' name.
+- JobId is a parameter - so if the job id is 2, it should return the directors' name; if 1 it should return actresses' name.
 
 ### Routing
 - Every page should have Navigation Links.
