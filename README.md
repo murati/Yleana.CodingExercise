@@ -103,4 +103,12 @@ This is the hard coded data we'll use. (you can copy paste it from here. It's a 
 - Use Dependency Injection when you initiate a controller class that depends on repository class (repository class should be injected).
 - Cache app settings on application start and bind them strongly type objects (appsettings.json). Reach these settings using DI.
 
+### Initial Instructions/Guidance
+- Create a GitHub Account if you don't have one.
+- I would suggest to use a GUI for Git like Sourcetree.
+- Fork this repo.
+- Clone and Code!
+- When finished, push to your Github fork (you can do this as much as you would like to).
+- Perform a pull request.
+
 Have fun and please let me know if you have questions :)
