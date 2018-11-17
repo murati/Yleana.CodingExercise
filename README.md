@@ -72,7 +72,7 @@ This is the hard coded data we'll use. (you can copy paste it from here. It's a 
 ```
 
 ## Goals
-### Make a page for "Job Titles"
+### Make a page for Job Titles
 - When an unauthorized user lands on this page, page makes a GET call to fetch all the job titles and returns just the titles (The fetch call should return only job titles not anything else) from your WebAPI endpoint.
 - When the data is returned it gets saved into redux store and react component(s) gets rendered.
 - This page URL should be localhost:[PORT]/titles
