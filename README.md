@@ -97,4 +97,10 @@ This is the hard coded data we'll use. (you can copy paste it from here. It's a 
         - Navlink 1: Get Job Titles. Navigates to localhost:[PORT]/titles
         - Navlink 2: Get actresses. Navigates to localhost:[PORT]/employees/1    
 
+### Scalability and Maintainability
+- Your WebAPI should not directly return the data, method from your repository class should.
+- Use IoC Containers for your repository classes.
+- Use Dependency Injection when you initiate a controller class that depends on repository class (repository class should be injected).
+- Cache app settings on application start and bind them strongly type objects (appsettings.json). Reach these settings using DI.
+
 Have fun and please let me know if you have questions :)
