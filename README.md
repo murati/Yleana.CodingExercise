@@ -5,7 +5,6 @@ Create a React app with Redux and fetch data from Web API.
 ## Specifics
 - The Project should be done in .NET core 2.1.
 - Client side must be done in React 16 & Redux.
-- React Router 4 must be used.
 
 ## The Data
 This is the hard coded data we'll use. (you can copy paste it from here. It's a valid JSON)
