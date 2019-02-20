@@ -85,7 +85,7 @@ This is the hard coded data we'll use. (you can copy paste it from here. It's a 
 
 ### Routing
 - Every page should have Navigation Links.
-- React router must be used.
+- client side router (for example reach router) must be used.
     - Titles page:
         - Navlink 1: Get actresses. Navigates to localhost:[PORT]/employees/1
         - Navlink 2: Get directors. Navigates to localhost:[PORT]/employees/2
