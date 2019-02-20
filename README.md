@@ -3,7 +3,7 @@
 Create a React app with Redux and fetch data from Web API. 
 
 ## Specifics
-- The Project should be done in .NET core 2.1.
+- The Project should be done in .NET core 2.2.
 - Single page app must be done in React 16 & Redux.
 
 ## The Data
