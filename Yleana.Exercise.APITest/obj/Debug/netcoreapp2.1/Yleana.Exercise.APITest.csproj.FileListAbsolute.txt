@@ -1,0 +1,17 @@
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/obj/Debug/netcoreapp2.1/Yleana.Exercise.APITest.csprojAssemblyReference.cache
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/obj/Debug/netcoreapp2.1/Yleana.Exercise.APITest.csproj.CoreCompileInputs.cache
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/obj/Debug/netcoreapp2.1/Yleana.Exercise.APITest.AssemblyInfoInputs.cache
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/obj/Debug/netcoreapp2.1/Yleana.Exercise.APITest.AssemblyInfo.cs
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/bin/Debug/netcoreapp2.1/Yleana.Exercise.APITest.deps.json
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/bin/Debug/netcoreapp2.1/Yleana.Exercise.APITest.runtimeconfig.json
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/bin/Debug/netcoreapp2.1/Yleana.Exercise.APITest.runtimeconfig.dev.json
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/bin/Debug/netcoreapp2.1/Yleana.Exercise.APITest.dll
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/bin/Debug/netcoreapp2.1/Yleana.Exercise.APITest.pdb
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/bin/Debug/netcoreapp2.1/Yleana.Exercise.Data.dll
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/bin/Debug/netcoreapp2.1/Yleana.Exercise.Data.pdb
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/obj/Debug/netcoreapp2.1/Yleana.Exercise.APITest.csproj.CopyComplete
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/obj/Debug/netcoreapp2.1/Yleana.Exercise.APITest.dll
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/obj/Debug/netcoreapp2.1/Yleana.Exercise.APITest.pdb
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.APITest/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll

@@ -1,0 +1,12 @@
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Business/bin/Debug/netstandard2.0/Yleana.Exercise.Business.deps.json
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Business/bin/Debug/netstandard2.0/Yleana.Exercise.Business.dll
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Business/bin/Debug/netstandard2.0/Yleana.Exercise.Business.pdb
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Business/bin/Debug/netstandard2.0/Yleana.Exercise.Data.dll
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Business/bin/Debug/netstandard2.0/Yleana.Exercise.Data.pdb
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Business/obj/Debug/netstandard2.0/Yleana.Exercise.Business.csprojAssemblyReference.cache
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Business/obj/Debug/netstandard2.0/Yleana.Exercise.Business.csproj.CoreCompileInputs.cache
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Business/obj/Debug/netstandard2.0/Yleana.Exercise.Business.AssemblyInfoInputs.cache
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Business/obj/Debug/netstandard2.0/Yleana.Exercise.Business.AssemblyInfo.cs
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Business/obj/Debug/netstandard2.0/Yleana.Exercise.Business.csproj.CopyComplete
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Business/obj/Debug/netstandard2.0/Yleana.Exercise.Business.dll
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Business/obj/Debug/netstandard2.0/Yleana.Exercise.Business.pdb

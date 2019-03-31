@@ -1,0 +1,9 @@
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Data/bin/Debug/netstandard2.0/Yleana.Exercise.Data.deps.json
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Data/bin/Debug/netstandard2.0/Yleana.Exercise.Data.dll
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Data/bin/Debug/netstandard2.0/Yleana.Exercise.Data.pdb
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Data/obj/Debug/netstandard2.0/Yleana.Exercise.Data.csprojAssemblyReference.cache
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Data/obj/Debug/netstandard2.0/Yleana.Exercise.Data.csproj.CoreCompileInputs.cache
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Data/obj/Debug/netstandard2.0/Yleana.Exercise.Data.AssemblyInfoInputs.cache
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Data/obj/Debug/netstandard2.0/Yleana.Exercise.Data.AssemblyInfo.cs
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Data/obj/Debug/netstandard2.0/Yleana.Exercise.Data.dll
+/Users/murti/Projects/yleana/Yleana.CodingExercise.git/Yleana.Exercise.Data/obj/Debug/netstandard2.0/Yleana.Exercise.Data.pdb
